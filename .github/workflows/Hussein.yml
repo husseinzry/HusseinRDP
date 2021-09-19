@@ -1,4 +1,4 @@
-name: HusseinRDP
+name: husseinRDP
 
 on: workflow_dispatch
 
